@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(243,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(243,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(563,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(671,14): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(672,14): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(673,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(674,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(675,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(676,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(677,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(678,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(679,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(680,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(681,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\Source.cpp(682,15): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+     Creating library C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\x64\Release\OpenGLprojecttest.lib and object C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\x64\Release\OpenGLprojecttest.exp
+  Generating code
+  0 of 1859 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLprojecttest.vcxproj -> C:\Users\andre\Desktop\Facultate an 3\SEM1\PG\Marian_Iosif_Andrei_30232\x64\Release\OpenGLprojecttest.exe

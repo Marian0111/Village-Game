@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\andre\Desktop\proiect_PG - Copy\Source.cpp(145,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\proiect_PG - Copy\Source.cpp(145,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLprojecttest.vcxproj -> C:\Users\andre\Desktop\proiect_PG - Copy\x64\Debug\OpenGLprojecttest.exe
